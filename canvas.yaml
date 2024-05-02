@@ -1,0 +1,31 @@
+id: 9d88eeee-bf5b-4fdc-9786-f549e6d65447
+name: github
+project_id: e2bb8211-6e09-4294-b889-82a6ab74e784
+global_imports: []
+is_public: false
+workspace_id: null
+layers:
+- blocks:
+  - auto_size: false
+    canvas_id: 9d88eeee-bf5b-4fdc-9786-f549e6d65447
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 6f315edf-d090-4fd5-9a12-184a1c440bbb
+    layer_id: f5cb4957-9e99-4f4f-a616-3520f9161ec0
+    memory: 16384
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 2
+    type: 1
+    variables: null
+    width: 800
+    x: 64
+    y: 73
+  canvas_id: 9d88eeee-bf5b-4fdc-9786-f549e6d65447
+  edges: []
+  id: f5cb4957-9e99-4f4f-a616-3520f9161ec0
+  name: Development
+  type: 1
